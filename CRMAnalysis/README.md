@@ -36,8 +36,8 @@ Analyzing sales pipeline data from a fictitious B2B computer hardware sales comp
 - Conduct a thorough analysis of the eastern office's performance to identify the factors contributing to the revenue decline. Develop and implement strategies to address these issues and stimulate growth in this region.
 ## Limits to Analysis and Further Information Needed
 To conduct a better analysis of the company’s performance and inform the actions the company must take to recover from the declining sales growth rate, other data that would typically be in the possession of a B2B retail company should be looked at in conjunction with the datasets provided. This includes:
-More information on the products themselves, such as COGS and functions/purposes of products  
-The length a deal has spent in each stage of the sales funnel
-Data on transactions from previous years, to better contextualize quarterly trends
+- More information on the products themselves, such as COGS and functions/purposes of products  
+- The length a deal has spent in each stage of the sales funnel
+- Data on transactions from previous years, to better contextualize quarterly trends
 
 Thank you so much for checking out my CRM Analytics Project! This is my first business-oriented dashboard, so feedback is especially welcome, and I hope you’ll check out the other projects on my page!
