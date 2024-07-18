@@ -1,7 +1,8 @@
 # Maven Analytics CRM Opportunities Analysis (2017)
 
-Analyzing sales pipeline data from a fictitious B2B computer hardware sales company. Data sourced from Maven Analytics. Find the interactive Tableau dashboard here.
+Analyzing sales pipeline data from a fictitious B2B computer hardware sales company. Data sourced from Maven Analytics. Find the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/brian.laluces/viz/MavenCRMAnalysis/MavenHardwareCRMAnalytics).
 
+![Tableau Dashboard showing KPIs for company, including overall revenue trends, and performance based on sector, agent, and product](CRMDashboard.png)
 
 ## Key Metrics
 | Metric | Definition | Importance |
