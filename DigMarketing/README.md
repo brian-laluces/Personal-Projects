@@ -28,17 +28,17 @@ Before moving on to the analysis, I also decided to aggregate data into these co
 ## Analysis & Visualizations
 My analysis started with histograms and box charts to acquaint myself with the general distribution of categorical and quantitative variables. Despite the simplicity of the visualizations, I uncovered several characteristics of the dataset that were crucial in answering several of the business questions listed above. For example, I found that over half of the customers in this dataset reside in Spain. This not only helped me form an image of the average customer, but also informed further analysis that was conducted later in the project.
 
-![Tableau Histogram visualizing the amount of customers the company receives per country](DigMarketing/DataVizPics/chart1.png)
+![Tableau Histogram visualizing the amount of customers the company receives per country](DataVizPics/chart1.png)
 
 Moving from single-variable analysis, I constructed a correlation heatmap to identify which variables were strongly correlated:
 
-![Tableau Correlation Heat Map for Digital Marketing Dataset](DigMarketing/DataVizPics/chart2.png)
+![Tableau Correlation Heat Map for Digital Marketing Dataset](DataVizPics/chart2.png)
 
 Most of the strong correlations were found in my aggregations, which did not reveal anything not already known/worth looking into. Looking back at the original variables, I decided to look at relationships not considered statistically strong, but had correlation coefficients hovering around 0.5. From there, I created a pairplot to see if any variables had non-linear correlations.
 
 The last major step of my analysis was comparing customer behavior across several demographic categories. For these graphs, I created multiple box and bar plots.
 
-![Tableau Multiple Bar Plot Plotting acceptance rates for various campaigns across education levels](DigMarketing/DataVizPics/chart3.png)
+![Tableau Multiple Bar Plot Plotting acceptance rates for various campaigns across education levels](DataVizPics/chart3.png)
 
 ## Conclusions
 While no factors can be considered statistically significant to the number of web purchases, the most significant factors are the amount customers spend on wine and gold, with a less significant factor being income.
